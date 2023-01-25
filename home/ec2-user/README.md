@@ -1,3 +1,4 @@
+
 <h1> Atividade Linux PB Compass </h1>
 
 > Projeto realizado por Filipe Gomes, estagiário em Cloud & DevSecOps na Compass UOL.
@@ -77,7 +78,7 @@ Passo a passo no terminal do linux:
 1. Primeiro, usando o cd /, crie um diretório:
 
 ```
-  	sudo mkdir diretorio
+	sudo mkdir diretorio
 	
 ```
 
