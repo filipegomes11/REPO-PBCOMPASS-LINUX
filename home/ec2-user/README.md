@@ -158,7 +158,7 @@ Passo a passo no terminal do linux:
 11. Após isso vá no diretório dentro do filesystem do NFS e verifique a cada cinco minutos se o arquivo está sendo gerado com a informação feita no Script.
 
 
-## Referência:
+## Referências:
 * https://www.linkedin.com/pulse/script-de-verifica%C3%A7%C3%A3o-status-do-servi%C3%A7o-mongodb-rodolfo-dos-santos/?trk=pulse-article_more-articles_related-content-card&originalSubdomain=pt
 
 
